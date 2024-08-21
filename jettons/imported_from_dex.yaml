@@ -205,6 +205,9 @@
 - address: 0:9748c357dce0798cf80e2641338d8866ec53817e4037720ee9681a93630cd7ae
   name: Cubigator
   symbol: CUB
+- address: 0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c
+  name: DexCoyote Legends
+  symbol: DCL
 - address: 0:96e60d5ebe740dd8e6591157bedb7692bc4b203dab96665176ed9233e511219d
   name: DEFI HUNTERS DAO
   symbol: DDAO

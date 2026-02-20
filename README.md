@@ -499,6 +499,7 @@ Name           | Address
 [RUG POLICE](https://tonviewer.com/0:175132cd54c6bf1db9bf197d8dcf1beda0e03f8895367794dfd04ef5e4c63f45) | EQAXUTLNVMa_Hbm_GX2NzxvtoOA_iJU2d5Tf0E715MY_RUGP
 [RULO CMO](https://tonviewer.com/0:78bdb4ae36472f662ab467e5c0ddb5427cde618f97018af14903da4f0ad3a8b4) | EQB4vbSuNkcvZiq0Z-XA3bVCfN5hj5cBivFJA9pPCtOotAfE
 [Random.tg](https://tonviewer.com/0:85f68631a37ef10865f50d285913079a54625ee8ab9ca74ced28eeaf0ac44034) | EQCF9oYxo37xCGX1DShZEweaVGJe6Kucp0ztKO6vCsRANDOM
+[Re Lone](https://tonviewer.com/0:10b88e39c419400e03d227851b4ab50eed0c974453964d7909fd17d9b917fe2e) | EQAQuI45xBlADgPSJ4UbSrUO7QyXRFOWTXkJ_RfZuRf-Lone
 [Rebalancer](https://tonviewer.com/0:5893d469f238059b113a5c820e88f252c4e6c0c2de837538517533fbb7725085) | EQBYk9Rp8jgFmxE6XIIOiPJSxObAwt6DdThRdTP7t3JQhcTz
 [Republic Dog](https://tonviewer.com/0:da50a430100c789afff3ee6f9a27286081bc26a22cc9c0f192bfafd7425bf201) | EQDaUKQwEAx4mv_z7m-aJyhggbwmoizJwPGSv6_XQlvyATvh
 [Resistance Bear](https://tonviewer.com/0:3cc848393a8b5e73d75d8387482f07a6360b2ea9d4078ca2638d000826b564c9) | EQA8yEg5Ootec9ddg4dILwemNgsuqdQHjKJjjQAIJrVkyd33

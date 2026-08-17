@@ -308,6 +308,7 @@ Name           | Address
 [Gram super cycle](https://tonviewer.com/0:2668c7700a6a593494917ef6cd643bb51e48c56f0d95b6fbc8d450cabcb24c83) | EQAmaMdwCmpZNJSRfvbNZDu1HkjFbw2VtvvI1FDKvLJMgyXE
 [Grem](https://tonviewer.com/0:3a3fa3bf5c31f454d15e74266ea292fb7bc51d4aa1fd604702d9bc334a3b58ca) | EQA6P6O_XDH0VNFedCZuopL7e8UdSqH9YEcC2bwzSjtYyuI4
 [Grm](https://tonviewer.com/0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198) | EQC47093oX5Xhb0xuk2lCr2RhS8rj-vul61u4W2UH5ORmG_O
+[GroypUtya](https://tonviewer.com/0:26da9a30cb75ab59ebb89b99dd36a423342bfed4c02b171e31397f65ee92a76d) | EQAm2powy3WrWeu4m5ndNqQjNCv-1MArFx4xOX9l7pKnbdWs
 [Groyper](https://tonviewer.com/0:2dc28eaa30dc2daf489303d78a559df672e002149d1529defc1ab05639ef37f9) | EQAtwo6qMNwtr0iTA9eKVZ32cuACFJ0VKd78GrBWOe83-X1P
 [Grumpy Cat](https://tonviewer.com/0:3acc8ecc0284249f41f02be0e5cda661dd6a9083ea6c14c40d82a6ebaa18d6b5) | EQA6zI7MAoQkn0HwK-DlzaZh3WqQg-psFMQNgqbrqhjWtXLI
 [HAMSTERBATYA](https://tonviewer.com/0:bf04bf1ca17f9f795c59fbf5c6154e9870170a780c6a1e25638a737fb750034d) | EQC_BL8coX-feVxZ-_XGFU6YcBcKeAxqHiVjinN_t1ADTUwr
